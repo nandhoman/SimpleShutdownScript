@@ -1,0 +1,2 @@
+*/1 * * * * /bin/main.sh
+@reboot sleep 600 && /bin/startscript.sh
